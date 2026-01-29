@@ -1,0 +1,14 @@
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\exo 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\exo 13.AssemblyInfoInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\exo 13.AssemblyInfo.cs
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\exo 13.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\bin\Debug\net9.0\exo 13.exe
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\bin\Debug\net9.0\exo 13.deps.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\bin\Debug\net9.0\exo 13.runtimeconfig.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\bin\Debug\net9.0\exo 13.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\bin\Debug\net9.0\exo 13.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\exo 13.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\refint\exo 13.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\exo 13.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\exo 13.genruntimeconfig.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo 13\obj\Debug\net9.0\ref\exo 13.dll
