@@ -1,0 +1,14 @@
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\bin\Debug\net9.0\exo16.exe
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\bin\Debug\net9.0\exo16.deps.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\bin\Debug\net9.0\exo16.runtimeconfig.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\bin\Debug\net9.0\exo16.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\bin\Debug\net9.0\exo16.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\exo16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\exo16.AssemblyInfoInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\exo16.AssemblyInfo.cs
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\exo16.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\exo16.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\refint\exo16.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\exo16.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\exo16.genruntimeconfig.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\exo16\obj\Debug\net9.0\ref\exo16.dll
