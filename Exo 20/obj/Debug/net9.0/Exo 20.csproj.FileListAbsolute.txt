@@ -1,0 +1,14 @@
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\bin\Debug\net9.0\Exo 20.exe
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\bin\Debug\net9.0\Exo 20.deps.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\bin\Debug\net9.0\Exo 20.runtimeconfig.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\bin\Debug\net9.0\Exo 20.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\bin\Debug\net9.0\Exo 20.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\Exo 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\Exo 20.AssemblyInfoInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\Exo 20.AssemblyInfo.cs
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\Exo 20.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\Exo 20.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\refint\Exo 20.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\Exo 20.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\Exo 20.genruntimeconfig.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\Exo 20\obj\Debug\net9.0\ref\Exo 20.dll
