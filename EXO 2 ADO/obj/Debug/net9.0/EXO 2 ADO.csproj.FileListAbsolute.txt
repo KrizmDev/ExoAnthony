@@ -1,0 +1,36 @@
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\EXO 2 ADO.exe
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\EXO 2 ADO.deps.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\EXO 2 ADO.runtimeconfig.json
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\EXO 2 ADO.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\EXO 2 ADO.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.csproj.AssemblyReference.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.AssemblyInfoInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.AssemblyInfo.cs
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.csproj.Up2Date
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\refint\EXO 2 ADO.dll
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.pdb
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\EXO 2 ADO.genruntimeconfig.cache
+C:\Users\userprf\Documents\c#\ExoSurPoo\EXO 2 ADO\obj\Debug\net9.0\ref\EXO 2 ADO.dll
