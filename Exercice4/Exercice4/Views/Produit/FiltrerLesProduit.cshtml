@@ -1,0 +1,51 @@
+@model IEnumerable<Exercice4.Models.Product>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Exercice4</title>
+    <link rel="stylesheet" href="~/css/FiltrerLesProduit.css" />
+</head>
+<body>
+     @foreach(Product pr in Model){
+       <ul>
+        <il>@pr.Id</il>
+        <il>@pr.Name</il>
+        <il>@pr.Category</il>
+        <il>@pr.Price</il>
+       
+       
+       
+       </ul>
+
+       
+     }
+     <div class="lien1">
+     <a asp-controller="Produit"
+         asp-action="FiltrerLesProduit"
+         asp-route-cat="Electronics"
+         asp-route-MPrice="1500000"
+
+        >
+    Afficher toute les produit Electronics</a>
+    </div>
+
+      <div class="lien2">
+    <a asp-controller="Produit"
+        asp-action="FiltrerLesProduit"
+        asp-route-cat="Clothing"
+         asp-route-MPrice="1500000">
+   Afficher toute les produit Clothing</a>
+   </div>
+
+
+      <div class="lien3">
+    <a asp-controller="Produit"
+         asp-action="FiltrerLesProduit"
+         asp-route-cat="Food"
+         asp-route-MPrice="1500000">
+   Afficher toute les produit Food</a>
+   </div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+@model IEnumerable<Exercice4.Models.Product>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Exercice4</title>
+</head>
+<body>
+     @foreach(Product pr in Model){
+       <ul>
+        <il>@pr.Id</il>
+        <il>@pr.Name</il>
+        <il>@pr.Category</il>
+        <il>@pr.Price</il>
+       
+       
+       
+       </ul>
+     }
+</body>
+</html>
