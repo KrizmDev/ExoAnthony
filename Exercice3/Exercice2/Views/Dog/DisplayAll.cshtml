@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index - Exercice1</title>
+	
+</head>
+<body>
+	@{
+	var dogs = ViewData["DogsList"] as List<Exercice2.Models.Dog>
+		;
+		}
+
+		@if (dogs != null)
+		{
+		<ul>
+			@foreach (var dog in dogs)
+			{
+			<li>@dog.Nom - @dog.Race - @dog.Age ans</li>
+			}
+		</ul>
+		}
+		else
+		{
+		<p>Aucun chien à afficher.</p>
+		}
+	</Exercice2.Models.Dog>
+</body>
+</html>

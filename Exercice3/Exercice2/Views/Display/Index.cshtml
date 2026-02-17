@@ -1,0 +1,81 @@
+      @{
+            List<string> hobbies = ViewData["hobbies"] as List<string>;
+		}
+		
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Display - Exercice 3 </title>
+	<link rel="stylesheet" href="~/css/Index.css"/>
+</head>
+<body>
+    <main>
+    <p>@ViewData["prenom"]</p>
+    <p>@ViewData["age"]</p>
+
+    @if((int)ViewData["age"] >= 18)
+    {
+        <p>Vous êtes majeurs</p>
+    }
+    else
+    {
+        <p>Vous êtes mineur</p>
+    }
+
+    <div class="dropdown">
+        <button class="dropbtn">Mes hobbies</button>
+        <ul class="dropdown-content">
+        @if (hobbies != null && hobbies.Count > 0)
+        {
+            @foreach(string hob in hobbies)
+            {
+                <li>@hob</li>
+            }
+        }
+        else
+        {
+            <li>Aucun hobbies</li>
+        }
+        </ul>
+    </div>
+
+    <div class="dropdown">
+        <button class="dropbtn">Les chiffres en gras</button>
+        <ul class="dropdown-content">
+            @for(int i = 0; i < 100; i++)
+            {
+                if(i % 2 == 0)
+                {
+                    <li class="clickable-number"><strong>@i</strong></li>
+                }
+            }
+        </ul>
+    </div>
+
+    <div class="dropdown">
+        <button class="dropbtn">Les chiffres pas en gras</button>
+        <ul class="dropdown-content">
+            @for(int i = 0; i < 100; i++)
+            {
+                if(i % 2 != 0)
+                {
+                    <li class="clickable-number">@i</li>
+                }
+            }
+        </ul>
+    </div>
+
+    <script>
+        const numbers = document.querySelectorAll('.clickable-number');
+        numbers.forEach(number => {
+            number.addEventListener('click', () => {
+                number.classList.toggle('clicked');
+            });
+        });
+    </script>
+
+	</main>
+</body>
+</html>
