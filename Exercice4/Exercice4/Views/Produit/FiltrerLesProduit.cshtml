@@ -8,44 +8,41 @@
     <link rel="stylesheet" href="~/css/FiltrerLesProduit.css" />
 </head>
 <body>
-     @foreach(Product pr in Model){
-       <ul>
-        <il>@pr.Id</il>
-        <il>@pr.Name</il>
-        <il>@pr.Category</il>
-        <il>@pr.Price</il>
-       
-       
-       
-       </ul>
+    <h2>Liste des produits</h2>
 
-       
-     }
-     <div class="lien1">
-     <a asp-controller="Produit"
-         asp-action="FiltrerLesProduit"
-         asp-route-cat="Electronics"
-         asp-route-MPrice="1500000"
+    @foreach (Product pr in Model)
+    {
+        <ul>
+            <li><strong>Id:</strong> @pr.Id</li>
+            <li><strong>Nom:</strong> @pr.Name</li>
+            <li><strong>Catégorie:</strong> @pr.Category</li>
+            <li><strong>Prix:</strong> @pr.Price €</li>
+        </ul>
+    }
 
-        >
-    Afficher toute les produit Electronics</a>
+    <h3>Filtres rapides</h3>
+    <div class="lien1">
+        <a asp-controller="Produit" asp-action="FiltrerLesProduit" asp-route-cat="Electronics" asp-route-MPrice="1500000">
+            Afficher tous les produits Electronics
+        </a>
     </div>
 
-      <div class="lien2">
-    <a asp-controller="Produit"
-        asp-action="FiltrerLesProduit"
-        asp-route-cat="Clothing"
-         asp-route-MPrice="1500000">
-   Afficher toute les produit Clothing</a>
-   </div>
+    <div class="lien2">
+        <a asp-controller="Produit" asp-action="FiltrerLesProduit" asp-route-cat="Clothing" asp-route-MPrice="1500000">
+            Afficher tous les produits Clothing
+        </a>
+    </div>
 
+    <div class="lien3">
+        <a asp-controller="Produit" asp-action="FiltrerLesProduit" asp-route-cat="Food" asp-route-MPrice="1500000">
+            Afficher tous les produits Food
+        </a>
+    </div>
 
-      <div class="lien3">
-    <a asp-controller="Produit"
-         asp-action="FiltrerLesProduit"
-         asp-route-cat="Food"
-         asp-route-MPrice="1500000">
-   Afficher toute les produit Food</a>
-   </div>
+    <div class="lien4">
+        <a asp-controller="Produit" asp-action="AfficherToutLesProduit">
+            Afficher tout
+        </a>
+    </div>
 </body>
 </html>

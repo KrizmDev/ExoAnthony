@@ -47,3 +47,20 @@
 .lien3 a:active{
     background-color: purple;
 }
+.lien4 a {
+    
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.lien4 a:hover {
+    background-color: #0056b3;
+}
+
+.lien4 a:active{
+    background-color: purple;
+}
