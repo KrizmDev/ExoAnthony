@@ -1,0 +1,22 @@
+@model IEnumerable<Exercice6.Models.Student>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Exercice 6 - list Total</title>
+</head>
+<body>
+        @foreach(Student std in Model){
+            <ul>
+            <li>@std.FirstName</li>
+            <li>@std.LastName</li>
+            <li>@std.Age</li>
+            <li>@std.Email</li>
+            </ul>
+        }
+
+        <a asp-controller="Accueil" asp-action="Student">Retoruner au Formulaire</a>
+</body>
+</html>
