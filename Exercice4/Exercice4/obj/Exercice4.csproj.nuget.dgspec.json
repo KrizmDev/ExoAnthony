@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userprf\\Desktop\\Exercice4\\Exercice4\\Exercice4.csproj": {}
+    "C:\\Users\\userprf\\Desktop\\lesexo\\Exercice4\\Exercice4\\Exercice4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userprf\\Desktop\\Exercice4\\Exercice4\\Exercice4.csproj": {
+    "C:\\Users\\userprf\\Desktop\\lesexo\\Exercice4\\Exercice4\\Exercice4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userprf\\Desktop\\Exercice4\\Exercice4\\Exercice4.csproj",
+        "projectUniqueName": "C:\\Users\\userprf\\Desktop\\lesexo\\Exercice4\\Exercice4\\Exercice4.csproj",
         "projectName": "Exercice4",
-        "projectPath": "C:\\Users\\userprf\\Desktop\\Exercice4\\Exercice4\\Exercice4.csproj",
+        "projectPath": "C:\\Users\\userprf\\Desktop\\lesexo\\Exercice4\\Exercice4\\Exercice4.csproj",
         "packagesPath": "C:\\Users\\userprf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userprf\\Desktop\\Exercice4\\Exercice4\\obj\\",
+        "outputPath": "C:\\Users\\userprf\\Desktop\\lesexo\\Exercice4\\Exercice4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userprf\\AppData\\Roaming\\NuGet\\NuGet.Config",
